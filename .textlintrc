@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "incremental-headers": true,
+    "no-exclamation-question-mark": false,
+    "prh": {
+        "rulePaths" :["prh.yml"]
+    }
+  }
+}
